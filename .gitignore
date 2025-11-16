@@ -13,3 +13,18 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Archivos de Android/Gradle
+.gradle/
+build/
+
+
+
+# Archivos de sistema
+
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de claves o configuraciones sensibles
+apikeys.properties

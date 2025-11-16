@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClimaMbya</string>
+    <string name="forecast">7-Day Forecast</string>
+    <string name="settings">Settings</string>
+</resources>
